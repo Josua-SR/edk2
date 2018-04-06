@@ -408,3 +408,8 @@
     <LibraryClasses>
       NULL|ArmVirtPkg/Library/FdtPciPcdProducerLib/FdtPciPcdProducerLib.inf
   }
+
+  #
+  # X86 Emulator Support
+  #
+  X86EmulatorPkg/X86Emulator.inf

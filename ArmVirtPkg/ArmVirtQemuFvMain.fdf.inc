@@ -197,3 +197,8 @@ READ_LOCK_STATUS   = TRUE
   # Ramdisk support
   #
   INF MdeModulePkg/Universal/Disk/RamDiskDxe/RamDiskDxe.inf
+
+  #
+  # X86 Emulator Support
+  #
+  INF X86EmulatorPkg/X86Emulator.inf
